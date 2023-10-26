@@ -1,3 +1,5 @@
+<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2F3ju-J51rFvP_Cs_-6lgV&ust=1698414791371000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLib0KTuk4IDFQAAAAAdAAAAABAE" alt="hassanjawwad12" /></p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Jawwad</h1>
 <h3 align="center">I am a dedicated computer science student deeply passionate about web development and its dynamic possibilities. My expertise shines through in leveraging frameworks like React, Next.js, as well as UI libraries like Tailwind CSS and Chakra UI, to architect captivating digital landscapes.
 
