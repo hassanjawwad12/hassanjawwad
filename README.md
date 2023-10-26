@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Jawwad</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">I am a dedicated computer science student deeply passionate about web development and its dynamic possibilities. My expertise shines through in leveraging frameworks like React, Next.js, as well as UI libraries like Tailwind CSS and Chakra UI, to architect captivating digital landscapes.
+
+Beyond the realm of web development, I'm captivated by the potential of AI and ML, with a particular focus on their application in data analysis and predictive modeling. My strong foundation in data structures and object-oriented programming, coupled with proficiency in languages like C++ and Python, empowers me to engineer creative solutions to complex challenges.
+
+I thrive on continuous learning, constantly seeking ways to apply my skills in real-world projects. I find joy in collaborative environments where the fusion of creativity and technology generates innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjawwad12&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjawwad12" /> </p>
 
