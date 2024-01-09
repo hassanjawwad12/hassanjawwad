@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjawwad12&theme=" alt="hassanjawwad12" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science,Framer Motion,NLP**
+- 🌱 I’m currently learning **Data Science,Framer Motion,NLP,Typescript**
 
 - 📫 How to reach me **hassanjawwad12@gmail.com**
 
