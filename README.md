@@ -5,7 +5,7 @@
 <h3 align="center" style="color: white;">I am a software engineer deeply passionate about web development and its dynamic possibilities. My expertise shines through in leveraging frameworks like React, Next.js,golang as well as UI libraries like Tailwind CSS and Chakra UI, to architect captivating digital landscapes. Beyond the realm of web development, I'm captivated by the potential of AI and ML, with a particular focus on their application in data analysis and predictive modeling. My strong foundation in data structures and object-oriented programming, coupled with proficiency in languages like C++ and Python, empowers me to engineer creative solutions to complex challenges. I thrive on continuous learning, constantly seeking ways to apply my skills in real-world projects. I find joy in collaborative environments where the fusion of creativity and technology generates innovative solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjawwad12&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjawwad12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjawwad12&theme=monokai" alt="hassanjawwad12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjawwad12&theme=monokai&title=-Reviews" alt="hassanjawwad12" /></a> </p>
 
 - 🌱 I’m currently learning **Bash scripting,Go-lang,Docker and ScalaDB**
 
