@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjawwad12&theme=monokai&title=-Reviews" alt="hassanjawwad12" /></a> </p>
 
-- 🌱 I’m currently learning **Bash scripting,Go-lang,Docker and ScalaDB**
+- 🌱 I’m currently learning **Bash scripting,Docker and ScalaDB**
 
 - 📫 How to reach me **hassanjawwad12@gmail.com**
 
