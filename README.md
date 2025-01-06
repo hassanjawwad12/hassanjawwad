@@ -2,7 +2,7 @@
 <p align="center">
 <img src="pg.gif"/>
 </p>
-<h3 align="center" style="color: white;">I am a dedicated computer science student deeply passionate about web development and its dynamic possibilities. My expertise shines through in leveraging frameworks like React, Next.js, as well as UI libraries like Tailwind CSS and Chakra UI, to architect captivating digital landscapes. Beyond the realm of web development, I'm captivated by the potential of AI and ML, with a particular focus on their application in data analysis and predictive modeling. My strong foundation in data structures and object-oriented programming, coupled with proficiency in languages like C++ and Python, empowers me to engineer creative solutions to complex challenges. I thrive on continuous learning, constantly seeking ways to apply my skills in real-world projects. I find joy in collaborative environments where the fusion of creativity and technology generates innovative solutions.I</h3>
+<h3 align="center" style="color: white;">I am a software engineer deeply passionate about web development and its dynamic possibilities. My expertise shines through in leveraging frameworks like React, Next.js,golang as well as UI libraries like Tailwind CSS and Chakra UI, to architect captivating digital landscapes. Beyond the realm of web development, I'm captivated by the potential of AI and ML, with a particular focus on their application in data analysis and predictive modeling. My strong foundation in data structures and object-oriented programming, coupled with proficiency in languages like C++ and Python, empowers me to engineer creative solutions to complex challenges. I thrive on continuous learning, constantly seeking ways to apply my skills in real-world projects. I find joy in collaborative environments where the fusion of creativity and technology generates innovative solutions.I</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjawwad12&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjawwad12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjawwad12&theme=" alt="hassanjawwad12" /></a> </p>
@@ -15,6 +15,7 @@
 <a href = "mailto:hassanjawwad12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
